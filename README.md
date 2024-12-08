@@ -12,5 +12,5 @@ This project uses Reddit posts to analyze social media sentiment and predict sto
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/Stock-Movement-Analysis.git
+   git clone https://github.com/0nuragD/Stock-Movement-Analysis-with-Sentiment-from-Reddit.git
    cd Stock-Movement-Analysis
